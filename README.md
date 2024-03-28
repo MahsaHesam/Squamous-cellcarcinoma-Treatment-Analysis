@@ -1,9 +1,10 @@
 
 
-![Laboratory](https://github.com/MahsaHesam/Squamous-cell-carcinoma-Treatment-Analysis/assets/70048005/1bd8cd38-f666-43e2-b5c1-3b8aad8b74cb)
 
 
 
+
+![Laboratory](https://github.com/MahsaHesam/Squamous-cellcarcinoma-Treatment-Analysis/assets/70048005/31e3d40a-e709-45ec-888b-ca680558c099)
 
 
 
